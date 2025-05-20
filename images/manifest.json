@@ -90,6 +90,87 @@
             ]
         },
         {
+            "id": "https://keolson-uc.github.io/TheholyByble/images/0078/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "0078"
+                ]
+            },
+            "height": 8897,
+            "width": 5809,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/TheholyByble/images/0078/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/TheholyByble/images/0078/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/TheholyByble/images/0078/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 182,
+                                                "height": 279
+                                            },
+                                            {
+                                                "width": 364,
+                                                "height": 557
+                                            },
+                                            {
+                                                "width": 727,
+                                                "height": 1113
+                                            },
+                                            {
+                                                "width": 1453,
+                                                "height": 2225
+                                            },
+                                            {
+                                                "width": 2905,
+                                                "height": 4449
+                                            },
+                                            {
+                                                "width": 5809,
+                                                "height": 8897
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5809,
+                                        "@id": "https://keolson-uc.github.io/TheholyByble/images/0078",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 8897,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/TheholyByble/images/0078/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://keolson-uc.github.io/TheholyByble/images/0007/canvas/",
             "type": "Canvas",
             "label": {
@@ -165,6 +246,492 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://keolson-uc.github.io/TheholyByble/images/0007/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/TheholyByble/images/0076/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "0076"
+                ]
+            },
+            "height": 8753,
+            "width": 5530,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/TheholyByble/images/0076/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/TheholyByble/images/0076/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/TheholyByble/images/0076/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 173,
+                                                "height": 274
+                                            },
+                                            {
+                                                "width": 346,
+                                                "height": 548
+                                            },
+                                            {
+                                                "width": 692,
+                                                "height": 1095
+                                            },
+                                            {
+                                                "width": 1383,
+                                                "height": 2189
+                                            },
+                                            {
+                                                "width": 2765,
+                                                "height": 4377
+                                            },
+                                            {
+                                                "width": 5530,
+                                                "height": 8753
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5530,
+                                        "@id": "https://keolson-uc.github.io/TheholyByble/images/0076",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 8753,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/TheholyByble/images/0076/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/TheholyByble/images/f2/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "f2"
+                ]
+            },
+            "height": 9149,
+            "width": 10403,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/TheholyByble/images/f2/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/TheholyByble/images/f2/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/TheholyByble/images/f2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 326,
+                                                "height": 286
+                                            },
+                                            {
+                                                "width": 651,
+                                                "height": 572
+                                            },
+                                            {
+                                                "width": 1301,
+                                                "height": 1144
+                                            },
+                                            {
+                                                "width": 2601,
+                                                "height": 2288
+                                            },
+                                            {
+                                                "width": 5202,
+                                                "height": 4575
+                                            },
+                                            {
+                                                "width": 10403,
+                                                "height": 9149
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 10403,
+                                        "@id": "https://keolson-uc.github.io/TheholyByble/images/f2",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 9149,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/TheholyByble/images/f2/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/TheholyByble/images/0077/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "0077"
+                ]
+            },
+            "height": 8798,
+            "width": 5513,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/TheholyByble/images/0077/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/TheholyByble/images/0077/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/TheholyByble/images/0077/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 173,
+                                                "height": 275
+                                            },
+                                            {
+                                                "width": 345,
+                                                "height": 550
+                                            },
+                                            {
+                                                "width": 690,
+                                                "height": 1100
+                                            },
+                                            {
+                                                "width": 1379,
+                                                "height": 2200
+                                            },
+                                            {
+                                                "width": 2757,
+                                                "height": 4399
+                                            },
+                                            {
+                                                "width": 5513,
+                                                "height": 8798
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5513,
+                                        "@id": "https://keolson-uc.github.io/TheholyByble/images/0077",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 8798,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/TheholyByble/images/0077/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/TheholyByble/images/0011/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "0011"
+                ]
+            },
+            "height": 8584,
+            "width": 5675,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/TheholyByble/images/0011/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/TheholyByble/images/0011/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/TheholyByble/images/0011/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 178,
+                                                "height": 269
+                                            },
+                                            {
+                                                "width": 355,
+                                                "height": 537
+                                            },
+                                            {
+                                                "width": 710,
+                                                "height": 1073
+                                            },
+                                            {
+                                                "width": 1419,
+                                                "height": 2146
+                                            },
+                                            {
+                                                "width": 2838,
+                                                "height": 4292
+                                            },
+                                            {
+                                                "width": 5675,
+                                                "height": 8584
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5675,
+                                        "@id": "https://keolson-uc.github.io/TheholyByble/images/0011",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 8584,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/TheholyByble/images/0011/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/TheholyByble/images/f1/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "f1"
+                ]
+            },
+            "height": 9077,
+            "width": 12302,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/TheholyByble/images/f1/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/TheholyByble/images/f1/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/TheholyByble/images/f1/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 385,
+                                                "height": 284
+                                            },
+                                            {
+                                                "width": 769,
+                                                "height": 568
+                                            },
+                                            {
+                                                "width": 1538,
+                                                "height": 1135
+                                            },
+                                            {
+                                                "width": 3076,
+                                                "height": 2270
+                                            },
+                                            {
+                                                "width": 6151,
+                                                "height": 4539
+                                            },
+                                            {
+                                                "width": 12302,
+                                                "height": 9077
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 12302,
+                                        "@id": "https://keolson-uc.github.io/TheholyByble/images/f1",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 9077,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/TheholyByble/images/f1/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/TheholyByble/images/0009/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "0009"
+                ]
+            },
+            "height": 8348,
+            "width": 5884,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/TheholyByble/images/0009/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/TheholyByble/images/0009/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/TheholyByble/images/0009/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 184,
+                                                "height": 261
+                                            },
+                                            {
+                                                "width": 368,
+                                                "height": 522
+                                            },
+                                            {
+                                                "width": 736,
+                                                "height": 1044
+                                            },
+                                            {
+                                                "width": 1471,
+                                                "height": 2087
+                                            },
+                                            {
+                                                "width": 2942,
+                                                "height": 4174
+                                            },
+                                            {
+                                                "width": 5884,
+                                                "height": 8348
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5884,
+                                        "@id": "https://keolson-uc.github.io/TheholyByble/images/0009",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 8348,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/TheholyByble/images/0009/canvas/"
                         }
                     ]
                 }
