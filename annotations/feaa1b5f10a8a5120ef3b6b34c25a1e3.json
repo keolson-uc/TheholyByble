@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The University of Chicago Libraries",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The University of Chicago Libraries</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/189031939",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-20T21:46:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747777580600",
+    "dcterms:modified" : "2025-05-20T21:46:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://keolson-uc.github.io/TheholyByble/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2316,3824,1345,371"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2316.04936,3823.7224h672.56263v0h672.56263v185.63447v185.63447h-672.56263h-672.56263v-185.63447z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b665de1d-8920-4905-a922-750e5f24c6f1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3514d31a-bc07-498c-ae26-b74a7f9b0138"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Maurice H. Grant Collection of British Bibles #36\nThe gift of an anonymous donor",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The Maurice H. Grant Collection of British Bibles #36</p>\n<p>The gift of an anonymous donor</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/189031939",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-20T21:47:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747777643186",
+    "dcterms:modified" : "2025-05-20T21:47:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://keolson-uc.github.io/TheholyByble/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2428,4960,1218,534"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2428.27815,4960.49148h609.20766v0h609.20766v267.09085v267.09085h-609.20766h-609.20766v-267.09085z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_049e2cf0-0d5e-4642-96f2-a61fbdd01807\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3514d31a-bc07-498c-ae26-b74a7f9b0138"
+    } ]
+  } ],
+  "@id" : "https://keolson-uc.github.io/TheholyByble/annotations/feaa1b5f10a8a5120ef3b6b34c25a1e3.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
