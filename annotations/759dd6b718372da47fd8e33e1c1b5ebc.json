@@ -1,0 +1,241 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin-bottom: 0in; line-height: normal;\">This Bible contains the very rare Map of Canaan, printed from the Block used for the First Coverdale Bible; and it is the only copy of this Bible containing the Map, which I never knew to be for Sale. I never saw it in any Booksellers or Auctioneers&rsquo; Catalogue although I have been collecting more than Thirty years.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin-bottom: 0in; line-height: normal;\">This Bible contains the very rare Map of Canaan, printed from the Block used for the First Coverdale Bible; and it is the only copy of this Bible containing the Map, which I never knew to be for Sale. I never saw it in any Booksellers or Auctioneers&rsquo; Catalogue although I have been collecting more than Thirty years.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/189031939",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-20T21:49:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747777751149",
+    "dcterms:modified" : "2025-05-20T21:49:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://keolson-uc.github.io/TheholyByble/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1077,2692,3844,1058"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1076.69155,2692.21169h1922.0982v0h1922.0982v529.18515v529.18515h-1922.0982h-1922.0982v-529.18515z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_404fa825-06a6-405d-95d4-87ad7f0540e6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://965c7a6c-c378-4233-b10d-1d4050449fe0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Robert Roberts",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Robert Roberts</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/189031939",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-20T21:49:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747777768223",
+    "dcterms:modified" : "2025-05-20T21:49:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://keolson-uc.github.io/TheholyByble/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3470,3599,871,301"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3469.88445,3599.00743h435.70105v0h435.70105v150.57456v150.57456h-435.70105h-435.70105v-150.57456z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7eb2ef24-d553-4c32-b51f-99337279914b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://965c7a6c-c378-4233-b10d-1d4050449fe0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Boston, Lincolnshire",
+      "@type" : "oa:Tag",
+      "chars" : "Boston, Lincolnshire"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/189031939",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-05-20T22:16:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747779405882",
+    "dcterms:modified" : "2025-05-20T22:16:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://keolson-uc.github.io/TheholyByble/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1100,3800,79,118"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1139.06642,3917.88653c0,-26.17159 13.08579,-52.34317 39.25738,-78.51476c0,-21.68125 -17.57613,-39.25738 -39.25738,-39.25738c-21.68125,0 -39.25738,17.57613 -39.25738,39.25738c26.17159,26.17159 39.25738,52.34317 39.25738,78.51476z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_2f8161ba-854f-44e8-8332-7d794cc2975e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://965c7a6c-c378-4233-b10d-1d4050449fe0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin-bottom: 0in; line-height: normal;\">I have not even come across the Bible itself in 30 years.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin-bottom: 0in; line-height: normal;\">I have not even come across the Bible itself in 30 years.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/189031939",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-20T21:50:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747777803318",
+    "dcterms:modified" : "2025-05-20T21:50:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://keolson-uc.github.io/TheholyByble/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2012,3917,3246,282"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2011.53253,3916.85337h1622.94909v0h1622.94909v141.22615v141.22615h-1622.94909h-1622.94909v-141.22615z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_32dda390-7d4d-4771-a9a6-7a419666897c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://965c7a6c-c378-4233-b10d-1d4050449fe0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin-bottom: 0in; line-height: normal;\">Boston, 1895\n<p class=\"MsoNormal\" style=\"margin-bottom: 0in; line-height: normal;\">Lincolnshire",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin-bottom: 0in; line-height: normal;\">Boston, 1895</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0in; line-height: normal;\">Lincolnshire</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/189031939",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-20T21:49:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747777782831",
+    "dcterms:modified" : "2025-05-20T21:49:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://keolson-uc.github.io/TheholyByble/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=843,3692,946,423"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M842.98131,3692.49153h473.09469v0h473.09469v211.33922v211.33922h-473.09469h-473.09469v-211.33922z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d66c0cd9-eb6d-4201-aa10-2cc3b6d46be1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://965c7a6c-c378-4233-b10d-1d4050449fe0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin-bottom: 0in; line-height: normal;\">Map of Joshua XXIII",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin-bottom: 0in; line-height: normal;\"><u>Map of Joshua</u> XXIII</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/189031939",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-20T21:48:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747777710271",
+    "dcterms:modified" : "2025-05-20T21:48:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://keolson-uc.github.io/TheholyByble/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2283,2337,1470,469"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2282.63641,2336.97212h734.85017v0h734.85017v234.71024v234.71024h-734.85017h-734.85017v-234.71024z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_05c64726-c7f2-41de-95b2-0094140d442d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://965c7a6c-c378-4233-b10d-1d4050449fe0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bishops Bible\n1574",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Bishops Bible</p>\n<p>1574</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/189031939",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-20T21:48:13",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747777693711",
+    "dcterms:modified" : "2025-05-20T21:48:13",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://keolson-uc.github.io/TheholyByble/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1619,738,2292,1386"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1618.89932,738.39405h1146.18019v0h1146.18019v692.78232v692.78232h-1146.18019h-1146.18019v-692.78232z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e26fcac7-a77a-4ee2-be04-3cb735e2d72f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://965c7a6c-c378-4233-b10d-1d4050449fe0"
+    } ]
+  } ],
+  "@id" : "https://keolson-uc.github.io/TheholyByble/annotations/759dd6b718372da47fd8e33e1c1b5ebc.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
