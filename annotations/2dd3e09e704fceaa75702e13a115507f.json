@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "I am not ashamed of the Gospel of Christe, because it is the power of God unto salvation to all that beleve.&nbsp;\nRom.i.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>I am not ashamed of the Gospel of Christe, because it is the power of God unto salvation to all that beleve.&nbsp;</p>\n<p>Rom.i.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/189031939",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-20T21:54:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747778079234",
+    "dcterms:modified" : "2025-05-20T21:54:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://keolson-uc.github.io/TheholyByble/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1923,6179,1593,391"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1923.29071,6178.97228h796.73573v0h796.73573v195.58565v195.58565h-796.73573h-796.73573v-195.58565z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_bcba299f-5eea-4084-ac4a-f4c0a024af98\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://94c33f3c-c748-4841-b465-2704dd5b4d91"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The holie Bible.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The holie Bible.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/189031939",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-20T21:51:07",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747777867101",
+    "dcterms:modified" : "2025-05-20T21:51:07",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://keolson-uc.github.io/TheholyByble/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1670,608,2139,382"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1670.37918,607.55948h1069.70818v0h1069.70818v190.99257v190.99257h-1069.70818h-1069.70818v-190.99257z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2d040eac-6832-4394-b3f2-bf7d8453805f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://94c33f3c-c748-4841-b465-2704dd5b4d91"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The holy Byble,\nconteynyng the olde\nTestament and the newe.\nSet foorth by aucthoritie.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The holy Byble,</p>\n<p>conteynyng the olde</p>\n<p>Testament and the newe.</p>\n<p>Set foorth by aucthoritie.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/189031939",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-20T21:52:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747777945066",
+    "dcterms:modified" : "2025-05-20T21:52:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://keolson-uc.github.io/TheholyByble/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2028,3445,1481,1712"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2027.55406,3444.91372h740.40972v0h740.40972v855.85659v855.85659h-740.40972h-740.40972v-855.85659z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6d91cf30-8448-4f7e-931a-af3b10aa370a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://94c33f3c-c748-4841-b465-2704dd5b4d91"
+    } ]
+  } ],
+  "@id" : "https://keolson-uc.github.io/TheholyByble/annotations/2dd3e09e704fceaa75702e13a115507f.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
