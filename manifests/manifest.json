@@ -68,6 +68,11 @@
         },
         "on" : "http://3514d31a-bc07-498c-ae26-b74a7f9b0138"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://keolson-uc.github.io/TheholyByble/annotations/feaa1b5f10a8a5120ef3b6b34c25a1e3.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Mbookplate"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://2d922837-d71b-4d3c-adbe-73f804520114",
@@ -120,6 +125,11 @@
         },
         "on" : "http://965c7a6c-c378-4233-b10d-1d4050449fe0"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://keolson-uc.github.io/TheholyByble/annotations/759dd6b718372da47fd8e33e1c1b5ebc.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Inscription"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://94c33f3c-c748-4841-b465-2704dd5b4d91",
@@ -145,6 +155,11 @@
           "width" : 5688
         },
         "on" : "http://94c33f3c-c748-4841-b465-2704dd5b4d91"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://keolson-uc.github.io/TheholyByble/annotations/2dd3e09e704fceaa75702e13a115507f.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "titlepage"
       } ]
     }, {
       "@id" : "http://df580f36-c88c-4f0f-9159-1778fd403047",
@@ -300,6 +315,11 @@
           "width" : 12302
         },
         "on" : "http://ead53abd-a14c-464a-b14a-e4768af3f9fb"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://keolson-uc.github.io/TheholyByble/annotations/97ec0a399798dedb3ecd57b7cd1a0d0d.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Exodus.27.Chapter"
       } ],
       "related" : ""
     }, {
