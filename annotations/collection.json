@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://keolson-uc.github.io/TheholyByble/annotations/2dd3e09e704fceaa75702e13a115507f.json" ],
+  "otherContent" : [ "https://keolson-uc.github.io/TheholyByble/annotations/2dd3e09e704fceaa75702e13a115507f.json", "https://keolson-uc.github.io/TheholyByble/annotations/97ec0a399798dedb3ecd57b7cd1a0d0d.json" ],
   "@id" : "https://keolson-uc.github.io/TheholyByble/annotations/collection.json",
   "label" : "All annotations loaded in keolson-uc/TheholyByble project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
