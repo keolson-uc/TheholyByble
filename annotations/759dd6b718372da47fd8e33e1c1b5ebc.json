@@ -286,6 +286,52 @@
                     "full": "http://965c7a6c-c378-4233-b10d-1d4050449fe0"
                 }
             ]
+        },
+        {
+            "resource": [
+                {
+                    "http://dev.llgc.org.uk/sas/full_text": "Biblioteca Sussexiana",
+                    "@type": "oa:Tag",
+                    "chars": "Biblioteca Sussexiana"
+                },
+                {
+                    "http://dev.llgc.org.uk/sas/full_text": "No copies in the Caxton Exhibition Cat.\n&nbsp;\nnor Pettigrew Bib. Sussex",
+                    "@type": "dctypes:Text",
+                    "format": "text/html",
+                    "chars": "<p>No copies in the Caxton Exhibition Cat.</p>\n<p>&nbsp;</p>\n<p>nor Pettigrew Bib. Sussex</p>"
+                }
+            ],
+            "@type": "oa:Annotation",
+            "dcterms:creator": "https://dev.gdmrdigital.com/user/1245635613/189031939",
+            "motivation": [
+                "oa:tagging",
+                "oa:commenting"
+            ],
+            "dcterms:created": "2025-05-21T20:48:27",
+            "@id": "https://dev.gdmrdigital.com/annotation/anno/1747860507891",
+            "dcterms:modified": "2025-05-21T20:48:27",
+            "@context": "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+            "on": [
+                {
+                    "within": {
+                        "@type": "sc:Manifest",
+                        "@id": "https://keolson-uc.github.io/TheholyByble/manifests/manifest.json"
+                    },
+                    "@type": "oa:SpecificResource",
+                    "selector": {
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=1128,4175,3053,463"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1128.14678,4175.42764h1526.45291v0h1526.45291v231.46411v231.46411h-1526.45291h-1526.45291v-231.46411z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_704b8128-df46-489c-b28b-0079155b843d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@type": "oa:Choice"
+                    },
+                    "full": "http://965c7a6c-c378-4233-b10d-1d4050449fe0"
+                }
+            ]
         }
     ],
     "@id": "https://keolson-uc.github.io/TheholyByble/annotations/759dd6b718372da47fd8e33e1c1b5ebc.json",
