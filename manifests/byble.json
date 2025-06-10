@@ -4,8 +4,8 @@
   "@type" : "sc:Manifest",
   "label" : "The holy Byble : conteynyng the olde Testament and the newe",
   "metadata" : [ {
-    "label" : "Label",
-    "value" : "Pen facsimiles."
+    "label" : "Subject",
+    "value" : "Pen facsimiles.", "Annotations.", "Inscriptions.", "Illegible markings.", "Hand coloring.", "Sheepskin bindings.", "Raised bands.", "Lettering pieces."
   }, {
     "label" : "Label",
     "value" : "Annotations."
