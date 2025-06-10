@@ -4,29 +4,9 @@
   "@type" : "sc:Manifest",
   "label" : "The holy Byble : conteynyng the olde Testament and the newe",
   "metadata" : [ {
-    "label" : "Subject",
-    "value" : "Pen facsimiles."
-  }, {
-    "label" : "Label",
-    "value" : "Annotations."
-  }, {
-    "label" : "Label",
-    "value" : "Inscriptions."
-  }, {
-    "label" : "Label",
-    "value" : "Illegible markings."
-  }, {
-    "label" : "Label",
-    "value" : "Hand coloring."
-  }, {
-    "label" : "Label",
-    "value" : "Sheepskin bindings."
-  }, {
-    "label" : "Label",
-    "value" : "Raised bands."
-  }, {
-    "label" : "Label",
-    "value" : "Lettering pieces."
+            "label": "Subject",
+            "value": "Pen facsimiles. Annotations. Inscriptions. Illegible markings. Hand coloring. Sheepskin bindings. Raised bands. Lettering pieces."
+        }
   } ],
   "description" : [ {
     "@value" : "Imprinted at London : By Iohn Harison [that is, Richard Jugge?], 1575.",
