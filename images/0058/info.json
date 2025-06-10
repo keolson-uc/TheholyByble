@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 188,
+    "height" : 292
+  }, {
+    "width" : 375,
+    "height" : 584
+  }, {
+    "width" : 749,
+    "height" : 1167
+  }, {
+    "width" : 1497,
+    "height" : 2334
+  }, {
+    "width" : 2994,
+    "height" : 4667
+  }, {
+    "width" : 5988,
+    "height" : 9334
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5988,
+  "@id" : "https://keolson-uc.github.io/TheholyByble/images/0058",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 9334
+}
