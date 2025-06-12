@@ -2674,9 +2674,9 @@
         {
             "@id": "https://keolson-uc.github.io/TheholyByble/range/r1-2-3",
             "@type": "sc:Range",
-            "label": "Title_Page",
+            "label": "Title Page",
             "canvases": [
-                "https://keolson-uc.github.io/TheholyByble/canvas/0007a"
+                "https://keolson-uc.github.io/TheholyByble/canvas/Title_Page"
             ]
         },
         {
