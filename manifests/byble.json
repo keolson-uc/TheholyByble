@@ -4,8 +4,8 @@
   "@type" : "sc:Manifest",
   "label" : "The holy Byble : conteynyng the olde Testament and the newe",
   "metadata" : [ {
-            "label": "Subjects",
-            "value": "Pen facsimiles. Annotations. Inscriptions. Illegible markings. Hand coloring. Sheepskin bindings. Raised bands. Lettering pieces."
+    "label" : "Subject",
+    "value" : "Pen facsimiles. Annotations. Inscriptions. Illegible markings. Hand coloring. Sheepskin bindings. Raised bands. Lettering pieces."
   } ],
   "description" : [ {
     "@value" : "Imprinted at London : By Iohn Harison [that is, Richard Jugge?], 1575.",
@@ -198,7 +198,7 @@
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "behavior" : "no-display",
-          "opacityHint" : 0.0,
+          "opacityHint" : 0,
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
             "@id" : "https://keolson-uc.github.io/TheholyByble/images/0007_02",
@@ -218,7 +218,7 @@
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "behavior" : "no-display",
-          "opacityHint" : 0.0,
+          "opacityHint" : 0,
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
             "@id" : "https://keolson-uc.github.io/TheholyByble/images/0007_01",
@@ -2338,7 +2338,93 @@
       "related" : ""
     } ]
   } ],
-  "structures" : [ ],
+  "structures" : [ {
+    "@id" : "https://keolson-uc.github.io/TheholyByble/range/r1",
+    "@type" : "sc:Range",
+    "label" : "Structure",
+    "viewingHint" : "top",
+    "ranges" : [ "https://keolson-uc.github.io/TheholyByble/range/r1-1", "https://keolson-uc.github.io/TheholyByble/range/r1-2", "https://keolson-uc.github.io/TheholyByble/range/r1-3" ]
+  }, {
+    "@id" : "https://keolson-uc.github.io/TheholyByble/range/r1-2",
+    "within" : "https://keolson-uc.github.io/TheholyByble/range/r1",
+    "@type" : "sc:Range",
+    "label" : "Front Matter",
+    "viewingHint" : "top",
+    "ranges" : [ "https://keolson-uc.github.io/TheholyByble/range/r1-2-1", "https://keolson-uc.github.io/TheholyByble/range/r1-2-2", "https://keolson-uc.github.io/TheholyByble/range/r1-2-3", "https://keolson-uc.github.io/TheholyByble/range/r1-2-4", "https://keolson-uc.github.io/TheholyByble/range/r1-2-5", "https://keolson-uc.github.io/TheholyByble/range/r1-2-6", "https://keolson-uc.github.io/TheholyByble/range/r1-2-8" ]
+  }, {
+    "@id" : "https://keolson-uc.github.io/TheholyByble/range/r1-3",
+    "within" : "https://keolson-uc.github.io/TheholyByble/range/r1",
+    "@type" : "sc:Range",
+    "label" : "Books",
+    "viewingHint" : "top",
+    "ranges" : [ "https://keolson-uc.github.io/TheholyByble/range/r1-3-1", "https://keolson-uc.github.io/TheholyByble/range/r1-3-2", "https://keolson-uc.github.io/TheholyByble/range/r1-3-3", "https://keolson-uc.github.io/TheholyByble/range/r1-3-4" ]
+  }, {
+    "@id" : "https://keolson-uc.github.io/TheholyByble/range/r1-1",
+    "within" : "https://keolson-uc.github.io/TheholyByble/range/r1",
+    "@type" : "sc:Range",
+    "label" : "Cover",
+    "canvases" : [ "https://keolson-uc.github.io/TheholyByble/canvas/0001" ]
+  }, {
+    "@id" : "https://keolson-uc.github.io/TheholyByble/range/r1-2-1",
+    "@type" : "sc:Range",
+    "label" : "Book Plate",
+    "canvases" : [ "https://keolson-uc.github.io/TheholyByble/canvas/0002" ]
+  }, {
+    "@id" : "https://keolson-uc.github.io/TheholyByble/range/r1-2-2",
+    "@type" : "sc:Range",
+    "label" : "Inscription",
+    "canvases" : [ "https://keolson-uc.github.io/TheholyByble/canvas/0005" ]
+  }, {
+    "@id" : "https://keolson-uc.github.io/TheholyByble/range/r1-2-3",
+    "@type" : "sc:Range",
+    "label" : "Title Page",
+    "canvases" : [ "https://keolson-uc.github.io/TheholyByble/canvas/0007a" ]
+  }, {
+    "@id" : "https://keolson-uc.github.io/TheholyByble/range/r1-2-4",
+    "@type" : "sc:Range",
+    "label" : "Preface",
+    "canvases" : [ "https://keolson-uc.github.io/TheholyByble/canvas/00027", "https://keolson-uc.github.io/TheholyByble/canvas/00028", "https://keolson-uc.github.io/TheholyByble/canvas/00029", "https://keolson-uc.github.io/TheholyByble/canvas/00030", "https://keolson-uc.github.io/TheholyByble/canvas/00031", "https://keolson-uc.github.io/TheholyByble/canvas/00032", "https://keolson-uc.github.io/TheholyByble/canvas/00033" ]
+  }, {
+    "@id" : "https://keolson-uc.github.io/TheholyByble/range/r1-2-5",
+    "@type" : "sc:Range",
+    "label" : "Prologue",
+    "canvases" : [ "https://keolson-uc.github.io/TheholyByble/canvas/00034", "https://keolson-uc.github.io/TheholyByble/canvas/00035", "https://keolson-uc.github.io/TheholyByble/canvas/00036", "https://keolson-uc.github.io/TheholyByble/canvas/00037", "https://keolson-uc.github.io/TheholyByble/canvas/00038", "https://keolson-uc.github.io/TheholyByble/canvas/00039", "https://keolson-uc.github.io/TheholyByble/canvas/00040" ]
+  }, {
+    "@id" : "https://keolson-uc.github.io/TheholyByble/range/r1-2-6",
+    "@type" : "sc:Range",
+    "label" : "Prayers",
+    "canvases" : [ "https://keolson-uc.github.io/TheholyByble/canvas/00041", "https://keolson-uc.github.io/TheholyByble/canvas/00042", "https://keolson-uc.github.io/TheholyByble/canvas/00043", "https://keolson-uc.github.io/TheholyByble/canvas/00044", "https://keolson-uc.github.io/TheholyByble/canvas/00045", "https://keolson-uc.github.io/TheholyByble/canvas/00046", "https://keolson-uc.github.io/TheholyByble/canvas/00047" ]
+  }, {
+    "@id" : "https://keolson-uc.github.io/TheholyByble/range/r1-2-7",
+    "@type" : "sc:Range",
+    "label" : "The Letanie",
+    "canvases" : [ "https://keolson-uc.github.io/TheholyByble/canvas/00047", "https://keolson-uc.github.io/TheholyByble/canvas/00048", "https://keolson-uc.github.io/TheholyByble/canvas/00049" ]
+  }, {
+    "@id" : "https://keolson-uc.github.io/TheholyByble/range/r1-2-8",
+    "@type" : "sc:Range",
+    "label" : "The Collectes",
+    "canvases" : [ "https://keolson-uc.github.io/TheholyByble/canvas/00050", "https://keolson-uc.github.io/TheholyByble/canvas/00051", "https://keolson-uc.github.io/TheholyByble/canvas/00052", "https://keolson-uc.github.io/TheholyByble/canvas/00053", "https://keolson-uc.github.io/TheholyByble/canvas/00054", "https://keolson-uc.github.io/TheholyByble/canvas/00055", "https://keolson-uc.github.io/TheholyByble/canvas/00056" ]
+  }, {
+    "@id" : "https://keolson-uc.github.io/TheholyByble/range/r1-3-1",
+    "@type" : "sc:Range",
+    "label" : "Genesis",
+    "canvases" : [ "https://keolson-uc.github.io/TheholyByble/canvas/00057", "https://keolson-uc.github.io/TheholyByble/canvas/00058", "https://keolson-uc.github.io/TheholyByble/canvas/00059", "https://keolson-uc.github.io/TheholyByble/canvas/00060", "https://keolson-uc.github.io/TheholyByble/canvas/00061", "https://keolson-uc.github.io/TheholyByble/canvas/00062", "https://keolson-uc.github.io/TheholyByble/canvas/00063", "https://keolson-uc.github.io/TheholyByble/canvas/00064", "https://keolson-uc.github.io/TheholyByble/canvas/00065", "https://keolson-uc.github.io/TheholyByble/canvas/00066", "https://keolson-uc.github.io/TheholyByble/canvas/00067", "https://keolson-uc.github.io/TheholyByble/canvas/00068", "https://keolson-uc.github.io/TheholyByble/canvas/00069", "https://keolson-uc.github.io/TheholyByble/canvas/00070", "https://keolson-uc.github.io/TheholyByble/canvas/00071", "https://keolson-uc.github.io/TheholyByble/canvas/00072", "https://keolson-uc.github.io/TheholyByble/canvas/00073", "https://keolson-uc.github.io/TheholyByble/canvas/00074", "https://keolson-uc.github.io/TheholyByble/canvas/00075" ]
+  }, {
+    "@id" : "https://keolson-uc.github.io/TheholyByble/range/r1-3-2",
+    "@type" : "sc:Range",
+    "label" : "Examples",
+    "canvases" : [ "https://keolson-uc.github.io/TheholyByble/canvas/00076", "https://keolson-uc.github.io/TheholyByble/canvas/00077", "https://keolson-uc.github.io/TheholyByble/canvas/00078" ]
+  }, {
+    "@id" : "https://keolson-uc.github.io/TheholyByble/range/r1-3-3",
+    "@type" : "sc:Range",
+    "label" : "Illustration",
+    "canvases" : [ "https://keolson-uc.github.io/TheholyByble/canvas/f1" ]
+  }, {
+    "@id" : "https://keolson-uc.github.io/TheholyByble/range/r1-3-4",
+    "@type" : "sc:Range",
+    "label" : "Map",
+    "canvases" : [ "https://keolson-uc.github.io/TheholyByble/canvas/f2" ]
+  } ],
   "related" : {
     "@id" : "http://pi.lib.uchicago.edu/1001/cat/bib/3134926"
   },
