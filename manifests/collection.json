@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://keolson-uc.github.io/TheholyByble/manifests/byble.json",
     "label" : "The holy Byble : conteynyng the olde Testament and the newe"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://keolson-uc.github.io/TheholyByble/manifests/byble_2.json",
+    "label" : "The holy Byble : conteynyng the olde Testament and the newe"
   } ]
 }
