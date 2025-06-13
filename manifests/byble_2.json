@@ -2350,7 +2350,7 @@
     "@type" : "sc:Range",
     "label" : "Front Matter",
     "viewingHint" : "top",
-    "ranges" : [ "https://keolson-uc.github.io/TheholyByble/range/r1-2-1", "https://keolson-uc.github.io/TheholyByble/range/r1-2-2", "https://keolson-uc.github.io/TheholyByble/range/r1-2-3", "https://keolson-uc.github.io/TheholyByble/range/r1-2-4", "https://keolson-uc.github.io/TheholyByble/range/r1-2-5", "https://keolson-uc.github.io/TheholyByble/range/r1-2-6", "https://keolson-uc.github.io/TheholyByble/range/r1-2-8" ]
+    "ranges" : [ "https://keolson-uc.github.io/TheholyByble/range/r1-2-1", "https://keolson-uc.github.io/TheholyByble/range/r1-2-2", "https://keolson-uc.github.io/TheholyByble/range/r1-2-3", "https://keolson-uc.github.io/TheholyByble/range/r1-2-4", "https://keolson-uc.github.io/TheholyByble/range/r1-2-5", "https://keolson-uc.github.io/TheholyByble/range/r1-2-6", "https://keolson-uc.github.io/TheholyByble/range/r1-2-7", "https://keolson-uc.github.io/TheholyByble/range/r1-2-8" ]
   }, {
     "@id" : "https://keolson-uc.github.io/TheholyByble/range/r1-3",
     "within" : "https://keolson-uc.github.io/TheholyByble/range/r1",
