@@ -2426,7 +2426,10 @@
     "canvases" : [ "http://c72170ce-f98f-4d68-b9cd-4b165a68ad0c" ]
   } ],
   "related" : {
-    "@id" : "http://pi.lib.uchicago.edu/1001/cat/bib/3134926"
+    "@id" : "http://pi.lib.uchicago.edu/1001/cat/bib/3134926",
+    "label" : "Bibliographic Record for Print Object"
   },
-  "viewingDirection" : "left-to-right"
+  "viewingDirection" : "left-to-right",
+  "sideBarOpen" : "true",
+  "thumbnailNavigationPosition" : "far-bottom"
 }
