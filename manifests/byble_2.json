@@ -190,24 +190,22 @@
       "width" : 5688,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://3b22f86c-fd06-4f88-abbc-cd8253eea419b",
+        "@id" : "http://3b22f86c-fd06-4f88-abbc-cd8253eea419",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0007_02/full/full/0/default.jpg",
+          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0007a/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
-          "behavior" : "no-display",
-          "opacityHint" : 0,
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0007_02",
+            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0007a",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
-          "height" : 8387,
-          "width" : 5287
+          "height" : 8518,
+          "width" : 5688
         },
-        "on" : "http://94c33f3c-c748-4841-b465-2704dd5b4d91#xywh=348,362,4956,7734"
+        "on" : "http://94c33f3c-c748-4841-b465-2704dd5b4d91"
       }, {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://3b22f86c-fd06-4f88-abbc-cd8253eea419a",
@@ -230,22 +228,24 @@
         "on" : "http://94c33f3c-c748-4841-b465-2704dd5b4d91#xywh=348,362,4956,7734"
       }, {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://3b22f86c-fd06-4f88-abbc-cd8253eea419",
+        "@id" : "http://3b22f86c-fd06-4f88-abbc-cd8253eea419b",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0007a/full/full/0/default.jpg",
+          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0007_02/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
+          "behavior" : "no-display",
+          "opacityHint" : 0,
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0007a",
+            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0007_02",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
-          "height" : 8518,
-          "width" : 5688
+          "height" : 8387,
+          "width" : 5287
         },
-        "on" : "http://94c33f3c-c748-4841-b465-2704dd5b4d91"
+        "on" : "http://94c33f3c-c748-4841-b465-2704dd5b4d91#xywh=348,362,4956,7734"
       } ],
       "otherContent" : [ {
         "@id" : "https://keolson-uc.github.io/TheholyByble/annotations/2dd3e09e704fceaa75702e13a115507f.json",
@@ -287,22 +287,22 @@
       "width" : 5884,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://5e425efa-2e85-4079-b796-d581621f22dab",
+        "@id" : "http://5e425efa-2e85-4079-b796-d581621f22da",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0009_02/full/full/0/default.jpg",
+          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0009/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0009_02",
+            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0009",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
-          "height" : 8408,
-          "width" : 5394
+          "height" : 8348,
+          "width" : 5884
         },
-        "on" : "http://df580f36-c88c-4f0f-9159-1778fd403047#xywh=404,278,5021,7759"
+        "on" : "http://df580f36-c88c-4f0f-9159-1778fd403047"
       }, {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://5e425efa-2e85-4079-b796-d581621f22dac",
@@ -323,22 +323,22 @@
         "on" : "http://df580f36-c88c-4f0f-9159-1778fd403047#xywh=404,278,5021,7759"
       }, {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://5e425efa-2e85-4079-b796-d581621f22da",
+        "@id" : "http://5e425efa-2e85-4079-b796-d581621f22dab",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0009/full/full/0/default.jpg",
+          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0009_02/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0009",
+            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0009_02",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
-          "height" : 8348,
-          "width" : 5884
+          "height" : 8408,
+          "width" : 5394
         },
-        "on" : "http://df580f36-c88c-4f0f-9159-1778fd403047"
+        "on" : "http://df580f36-c88c-4f0f-9159-1778fd403047#xywh=404,278,5021,7759"
       } ],
       "related" : ""
     }, {
@@ -375,22 +375,22 @@
       "width" : 5675,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://813e9eb1-0b3c-4880-b0f6-1ed3831d7175a",
+        "@id" : "http://813e9eb1-0b3c-4880-b0f6-1ed3831d7175",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0011_02/full/full/0/default.jpg",
+          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0011/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0011_02",
+            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0011",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
-          "height" : 8365,
-          "width" : 5315
+          "height" : 8584,
+          "width" : 5675
         },
-        "on" : "http://749c626a-108b-4863-b0d8-46dd3b340e48#xywh=280,375,5012,7777"
+        "on" : "http://749c626a-108b-4863-b0d8-46dd3b340e48"
       }, {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://813e9eb1-0b3c-4880-b0f6-1ed3831d7175b",
@@ -411,22 +411,22 @@
         "on" : "http://749c626a-108b-4863-b0d8-46dd3b340e48#xywh=280,375,5012,7777"
       }, {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://813e9eb1-0b3c-4880-b0f6-1ed3831d7175",
+        "@id" : "http://813e9eb1-0b3c-4880-b0f6-1ed3831d7175a",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0011/full/full/0/default.jpg",
+          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0011_02/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0011",
+            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0011_02",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
-          "height" : 8584,
-          "width" : 5675
+          "height" : 8365,
+          "width" : 5315
         },
-        "on" : "http://749c626a-108b-4863-b0d8-46dd3b340e48"
+        "on" : "http://749c626a-108b-4863-b0d8-46dd3b340e48#xywh=280,375,5012,7777"
       } ],
       "related" : ""
     }, {
@@ -2101,22 +2101,22 @@
       "width" : 5530,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://dd8c3b08-ac65-4ae9-88d5-380a96b56b09a",
+        "@id" : "http://dd8c3b08-ac65-4ae9-88d5-380a96b56b09",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0076_02/full/full/0/default.jpg",
+          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0076/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0076_02",
+            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0076",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
-          "height" : 8332,
-          "width" : 5141
+          "height" : 8753,
+          "width" : 5530
         },
-        "on" : "http://7ee9b0cf-4751-4852-a770-38435567b753#xywh=302,229,5202,8319"
+        "on" : "http://7ee9b0cf-4751-4852-a770-38435567b753"
       }, {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://dd8c3b08-ac65-4ae9-88d5-380a96b56b09b",
@@ -2137,22 +2137,22 @@
         "on" : "http://7ee9b0cf-4751-4852-a770-38435567b753#xywh=302,229,5202,8319"
       }, {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://dd8c3b08-ac65-4ae9-88d5-380a96b56b09",
+        "@id" : "http://dd8c3b08-ac65-4ae9-88d5-380a96b56b09a",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0076/full/full/0/default.jpg",
+          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0076_02/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0076",
+            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0076_02",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
-          "height" : 8753,
-          "width" : 5530
+          "height" : 8332,
+          "width" : 5141
         },
-        "on" : "http://7ee9b0cf-4751-4852-a770-38435567b753"
+        "on" : "http://7ee9b0cf-4751-4852-a770-38435567b753#xywh=302,229,5202,8319"
       } ],
       "related" : ""
     }, {
@@ -2163,22 +2163,22 @@
       "width" : 5513,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://3013d13a-4d16-437a-aa10-a8b9254291d8a",
+        "@id" : "http://3013d13a-4d16-437a-aa10-a8b9254291d8",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0077_02/full/full/0/default.jpg",
+          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0077/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0077_02",
+            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0077",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
-          "height" : 8313,
-          "width" : 5049
+          "height" : 8798,
+          "width" : 5513
         },
-        "on" : "http://d4c8809d-f2aa-43d6-b472-2e95f576263f#xywh=269,258,5138,8272"
+        "on" : "http://d4c8809d-f2aa-43d6-b472-2e95f576263f"
       }, {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://3013d13a-4d16-437a-aa10-a8b9254291d8b",
@@ -2199,22 +2199,22 @@
         "on" : "http://d4c8809d-f2aa-43d6-b472-2e95f576263f#xywh=269,258,5138,8272"
       }, {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://3013d13a-4d16-437a-aa10-a8b9254291d8",
+        "@id" : "http://3013d13a-4d16-437a-aa10-a8b9254291d8a",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0077/full/full/0/default.jpg",
+          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0077_02/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0077",
+            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0077_02",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
-          "height" : 8798,
-          "width" : 5513
+          "height" : 8313,
+          "width" : 5049
         },
-        "on" : "http://d4c8809d-f2aa-43d6-b472-2e95f576263f"
+        "on" : "http://d4c8809d-f2aa-43d6-b472-2e95f576263f#xywh=269,258,5138,8272"
       } ],
       "related" : ""
     }, {
@@ -2225,22 +2225,22 @@
       "width" : 5809,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://c02c0e13-78b2-412a-8c3a-f980e6009ccba",
+        "@id" : "http://c02c0e13-78b2-412a-8c3a-f980e6009ccb",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0078_02/full/full/0/default.jpg",
+          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0078/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0078_02",
+            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0078",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
-          "height" : 8401,
-          "width" : 5393
+          "height" : 8897,
+          "width" : 5809
         },
-        "on" : "http://5ad10750-451e-4c5e-993b-899ae959a818#xywh=256,261,5415,8374"
+        "on" : "http://5ad10750-451e-4c5e-993b-899ae959a818"
       }, {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://c02c0e13-78b2-412a-8c3a-f980e6009ccbb",
@@ -2261,22 +2261,22 @@
         "on" : "http://5ad10750-451e-4c5e-993b-899ae959a818#xywh=256,261,5415,8374"
       }, {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://c02c0e13-78b2-412a-8c3a-f980e6009ccb",
+        "@id" : "http://c02c0e13-78b2-412a-8c3a-f980e6009ccba",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0078/full/full/0/default.jpg",
+          "@id" : "https://keolson-uc.github.io/TheholyByble/images/0078_02/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0078",
+            "@id" : "https://keolson-uc.github.io/TheholyByble/images/0078_02",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
-          "height" : 8897,
-          "width" : 5809
+          "height" : 8401,
+          "width" : 5393
         },
-        "on" : "http://5ad10750-451e-4c5e-993b-899ae959a818"
+        "on" : "http://5ad10750-451e-4c5e-993b-899ae959a818#xywh=256,261,5415,8374"
       } ],
       "related" : ""
     }, {
